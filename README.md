@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [TypeScript](https://www.typescriptlang.org).
 
+## Install cheat sheet
+```
+git clone https://github.com/Mathias-Tkf/demo-react-context.git
+npm install
+npm start
+```
 
 ## Folder Structure
 
